@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "AmazonLogger.h"
 
 @interface Constants : NSObject
 
